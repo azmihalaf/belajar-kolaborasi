@@ -1,2 +1,2 @@
 # belajar-kolaborasi  
-Revisi README.md yang ke-1
+Revisi README.md yang ke-2
