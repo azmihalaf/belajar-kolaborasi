@@ -1,2 +1,2 @@
 # belajar-kolaborasi  
-Revisi pertama
+Revisi kedua
